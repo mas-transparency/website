@@ -9,6 +9,10 @@
   width: 50px;
 }
 
+.google-play-logo {
+  width: 160px;
+}
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
